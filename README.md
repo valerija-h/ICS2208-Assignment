@@ -1,4 +1,4 @@
-# Run Box Run - Creating a game using Leap Motion
+# Run Box Run - Creating a 3D runner game using Leap Motion
 
 For the Intelligent Interfaces (ICS2208) unit, students were asked to create an app that uses an intelligent interface, which was then presented at the Malta Robotics Olympiad (MRO) 2019. For this project, my partner and I decided to create a 3D runner game, called ‘Run Box Run’ using Unity as well as the addition of hand detection features from the Leap Motion device. The device allows the user to navigate through the game and interface using hand gestures.
 
